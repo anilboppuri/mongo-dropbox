@@ -1,2 +1,4 @@
  add
  commit
+ log
+ diff
